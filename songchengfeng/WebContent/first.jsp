@@ -52,6 +52,7 @@
 		<div class="down">
 			<input type="submit" value="提交">
 			<input type="reset" value="取消">
+			<p>xxxxxxxxxxxxxxxxxxx</p>
 		</div>
 	</div>
 </form>
